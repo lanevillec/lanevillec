@@ -36,19 +36,19 @@ My professional journey as a VP Senior Developer has cultivated a unique blend o
 
 *(These links will come alive as each project is polished and published! They reflect the active areas of my ML development.)*
 
-* **[Stock Market Volatility Prediction with LSTMs 📈](https://github.com/your-username/stock-volatility-lstm)**
+* **[Stock Market Volatility Prediction with LSTMs 📈](https://github.com/lanevillec/lstm-volatility-predictor)**
     * *Exploration:* Building a Long Short-Term Memory (LSTM) network to forecast stock market volatility. This project leverages time-series analysis and recurrent neural networks to predict a crucial factor in financial risk management, bridging my finance background with advanced machine learning techniques.
 
-* **[CRM Lead Churn Prediction with Gradient Boosting](https://github.com/your-username/crm-lead-churn-prediction)**
+* **[CRM Lead Churn Prediction with Gradient Boosting](https://github.com/lanevillec/crm-churn-predictor)**
     * *Exploration:* Applying powerful gradient boosting algorithms like XGBoost to a CRM dataset to predict lead churn. This project demonstrates a practical, business-oriented application of machine learning to enhance sales strategies and directly draws on my experience in the Salesforce ecosystem.
 
-* **[Classical Music Generation with a Transformer Model 🎼](https://github.com/your-username/transformer-music-generator)**
+* **[Classical Music Generation with a Transformer Model 🎼](https://github.com/lanevillec/transformer-music-generator)**
     * *Exploration:* Developing a Transformer-based neural network to generate novel, polyphonic piano pieces in the style of legendary composers. This project dives into sequence-to-sequence modeling and the creative application of deep learning to capture and replicate intricate musical nuances.
 
-* **[Species Identification from Images using a CNN 🦋](https://github.com/your-username/species-image-classifier)**
+* **[Species Identification from Images using a CNN 🦋](https://github.com/lanevillec/cnn-species-classifier)**
     * *Exploration:* Creating a Convolutional Neural Network (CNN) for image classification to identify butterfly species. This exploration into computer vision and deep learning will involve utilizing transfer learning to solve a real-world problem in a field I'm passionate about.
 
-* **[Prime Number Distribution with a Neural Network 🔢](https://github.com/your-username/prime-number-neural-net)**
+* **[Prime Number Distribution with a Neural Network 🔢](https://github.com/lanevillec/prime-pattern-neural-net)**
     * *Exploration:* Investigating the enigmatic patterns of prime numbers using a fundamental neural network. This project is a theoretical dive into applying machine learning to abstract mathematical concepts, showcasing a creative and analytical approach to problem-solving.
 
 ## 💬 Let's Connect!
