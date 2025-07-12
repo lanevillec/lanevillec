@@ -53,5 +53,5 @@ My professional journey as a VP Senior Developer has cultivated a unique blend o
 
 I'm always eager to exchange ideas on technology, explore innovative solutions, or discuss potential collaborations where my combined expertise in enterprise software and machine learning can create significant impact.
 
-* **LinkedIn:** [https://www.linkedin.com/in/chrislaneville](www.linkedin.com/in/chrislaneville)
+* **LinkedIn:** [Chris Laneville](https://www.linkedin.com/in/chrislaneville)
 * **Email:** [lanevillec@gmail.com](mailto:lanevillec@gmail.com)
