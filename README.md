@@ -34,8 +34,6 @@ My professional journey as a VP Senior Developer has cultivated a unique blend o
 
 ## 💡 Featured Machine Learning Explorations
 
-*(These links will come alive as each project is polished and published! They reflect the active areas of my ML development.)*
-
 * **[Stock Market Volatility Prediction with LSTMs 📈](https://github.com/lanevillec/lstm-volatility-predictor)**
     * *Exploration:* Building a Long Short-Term Memory (LSTM) network to forecast stock market volatility. This project leverages time-series analysis and recurrent neural networks to predict a crucial factor in financial risk management, bridging my finance background with advanced machine learning techniques.
 
