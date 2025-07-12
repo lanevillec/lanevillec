@@ -36,23 +36,20 @@ My professional journey as a VP Senior Developer has cultivated a unique blend o
 
 *(These links will come alive as each project is polished and published! They reflect the active areas of my ML development.)*
 
-* **[Predictive Lead Scoring for Simulated CRM Data](https://github.com/lanevillec/salesforce-lead-score-predictor)**
-    * *Exploration:* Building classification models to predict lead conversion probability within a simulated CRM environment, directly showcasing the practical application of machine learning to enhance sales and customer relationship management processes.
+* **[Stock Market Volatility Prediction with LSTMs 📈](https://github.com/your-username/stock-volatility-lstm)**
+    * *Exploration:* Building a Long Short-Term Memory (LSTM) network to forecast stock market volatility. This project leverages time-series analysis and recurrent neural networks to predict a crucial factor in financial risk management, bridging my finance background with advanced machine learning techniques.
 
-* **[Algorithmic Music Generation with LSTMs](https://github.com/lanevillec/neural-network-music-composer)**
-    * *Exploration:* Developing and training Long Short-Term Memory (LSTM) neural networks to generate original short musical sequences, creatively exploring the fascinating intersection of deep learning and algorithmic composition.
+* **[CRM Lead Churn Prediction with Gradient Boosting](https://github.com/your-username/crm-lead-churn-prediction)**
+    * *Exploration:* Applying powerful gradient boosting algorithms like XGBoost to a CRM dataset to predict lead churn. This project demonstrates a practical, business-oriented application of machine learning to enhance sales strategies and directly draws on my experience in the Salesforce ecosystem.
 
-* **[Evolutionary Algorithm for Traveling Salesperson Problem (TSP)](https://github.lanevillec/evolutionary-algorithm-optimizer)**
-    * *Exploration:* Implementing a Genetic Algorithm to solve the classic Traveling Salesperson Problem, demonstrating the power of biologically inspired computational methods for complex optimization challenges.
+* **[Classical Music Generation with a Transformer Model 🎼](https://github.com/your-username/transformer-music-generator)**
+    * *Exploration:* Developing a Transformer-based neural network to generate novel, polyphonic piano pieces in the style of legendary composers. This project dives into sequence-to-sequence modeling and the creative application of deep learning to capture and replicate intricate musical nuances.
 
-* **[Medical Image Classification with CNNs](https://github.com/lanevillec/medical-image-classifier)**
-    * *Exploration:* Applying Convolutional Neural Networks (CNNs) to classify medical images (e.g., differentiating between healthy and diseased samples), highlighting the potential of deep learning in diagnostic assistance and image analysis.
+* **[Species Identification from Images using a CNN 🦋](https://github.com/your-username/species-image-classifier)**
+    * *Exploration:* Creating a Convolutional Neural Network (CNN) for image classification to identify butterfly species. This exploration into computer vision and deep learning will involve utilizing transfer learning to solve a real-world problem in a field I'm passionate about.
 
-* **[Customer Churn Prediction](https://github.com/lanevillec/customer-churn-prediction)**
-    * *Exploration:* Developing robust classification models to identify customers at high risk of churn, exploring actionable insights for retention strategies through supervised learning.
-
-* **[Tweet Sentiment Analysis](https://github.com/lanevillec/nlp-tweet-sentiment-analysis)**
-    * *Exploration:* Applying Natural Language Processing (NLP) techniques to classify the sentiment of social media text, showcasing proficiency in text preprocessing and natural language understanding.
+* **[Prime Number Distribution with a Neural Network 🔢](https://github.com/your-username/prime-number-neural-net)**
+    * *Exploration:* Investigating the enigmatic patterns of prime numbers using a fundamental neural network. This project is a theoretical dive into applying machine learning to abstract mathematical concepts, showcasing a creative and analytical approach to problem-solving.
 
 ## 💬 Let's Connect!
 
